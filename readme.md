@@ -1,0 +1,1 @@
+# Controling a motor speed with arduino and potentiometer using analogue input and outputs.
